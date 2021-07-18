@@ -31,3 +31,8 @@ These are some results of the model.
 ## Output of mean shift algorithm
 
 ![image](https://user-images.githubusercontent.com/59763897/126057609-da96ae9e-e451-45b9-91ce-93489de45d37.png)
+
+
+## How to run
+
+Use the code mentioned in Imageprocessing.ipynb to execute. Run the cells one after the other. As of now I have used the code for individal part from other resources. But we will specialize them very soon.
